@@ -10,8 +10,8 @@ This repository is meant to be used throughout the semester to help you organize
 
 ### Members
 
-- Valerie Song
 - Richard Xiong
 - Vincent Nguyen
 - Gweneth Smith
 - Yu Zhou
+- Valerie Song
