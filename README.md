@@ -15,5 +15,3 @@ This repository is meant to be used throughout the semester to help you organize
 - Gweneth Smith
 - Yu Zhou
 - Valerie Song
-
-
